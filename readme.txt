@@ -1,6 +1,3 @@
--------------------------------------------------------------------------------------------------------
-
-
 SOURCES AND CREDITS:
 
 I've used the following resources as listed.
@@ -32,12 +29,5 @@ Javascript Files:
  - Masonry (http://masonry.desandro.com)
  - pace js (http://github.hubspot.com/pace/) 
  - owl carousel (http://www.owlgraphic.com/owlcarousel/)
-
- 
-
---------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
   
 
